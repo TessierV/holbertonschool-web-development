@@ -10,7 +10,7 @@ The objective of this project is to revamp the existing website following the de
 <p>This directory focused on creating HTML blocks. Each task is designed to structure the site's content according to the Figma design specifications, ensuring visual consistency and an optimal user experience.</p>
 <br>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/75f76703-549a-45ed-8091-9fdc76ed72eb" />
-<p align="left">mandatory 7tasks</p>
+<p align="left">mandatory 8 tasks</p>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/f68c3441-c4fe-4af2-90db-a0eb69922241" />
 <p align="left">No group</p>
 
@@ -20,7 +20,7 @@ The objective of this project is to revamp the existing website following the de
 <p>The second directory comprises exercice around styling the site. Each task aims to implement the necessary CSS to make the site visually appealing while ensuring compatibility across different devices and browsers.</p>
 <br> 
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/75f76703-549a-45ed-8091-9fdc76ed72eb" />
-<p align="left">mandatory 8tasks</p>
+<p align="left">mandatory 9 tasks</p>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/f68c3441-c4fe-4af2-90db-a0eb69922241" />
 <p align="left">No group</p>
 <br><br>
